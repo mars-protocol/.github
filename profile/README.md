@@ -1,4 +1,4 @@
-![mars-repositories](image.jpg)
+![mars-repositories](https://raw.githubusercontent.com/mars-protocol/.github/main/profile/image.jpg)
 
 # Mars Protocol
 
