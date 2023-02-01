@@ -24,9 +24,11 @@ Read more at [our docs site][2].
 
 ## 🛠️ Libraries and Tooling
 
-| Repository    | Description                                                 |
-| ------------- | ----------------------------------------------------------- |
-| [cw-asset][8] | Helper for handling various types of Cosmos fungible assets |
+| Repository            | Description                                                 |
+| --------------------- | ----------------------------------------------------------- |
+| [cw-asset][8]         | Helper for handling various types of Cosmos fungible assets |
+| [wallet-connector[13] | Wallet connector for Cosmos wallets                         |
+
 
 ## 📚 Data and Contents
 
@@ -36,6 +38,13 @@ Read more at [our docs site][2].
 | [docs][10]      | Mars Protocol documentations                   |
 | [mips][11]      | Mars Improvement Proposals                     |
 | [networks][12]  | Genesis data for Mars Hub mainnet and testnets |
+
+## 💻 Web interfaces
+
+| Repository         | Description                                                 |
+| ------------------ | ----------------------------------------------------------- |
+| [web-interface][14]| Frontend interface for Mars on Osmosis                      |
+
 
 [1]: https://marsprotocol.io/
 [2]: https://docs.marsprotocol.io/
@@ -48,3 +57,5 @@ Read more at [our docs site][2].
 [10]: https://github.com/mars-protocol/docs
 [11]: https://github.com/mars-protocol/mips
 [12]: https://github.com/mars-protocol/networks
+[13]: https://github.com/mars-protocol/wallet-connector
+[14]: https://github.com/mars-protocol/web-app
