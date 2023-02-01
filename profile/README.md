@@ -24,10 +24,10 @@ Read more at [our docs site][2].
 
 ## 🛠️ Libraries and Tooling
 
-| Repository            | Description                                                 |
-| --------------------- | ----------------------------------------------------------- |
-| [cw-asset][8]         | Helper for handling various types of Cosmos fungible assets |
-| [wallet-connector[13] | Wallet connector for Cosmos wallets                         |
+| Repository             | Description                                                 |
+| ---------------------- | ----------------------------------------------------------- |
+| [cw-asset][8]          | Helper for handling various types of Cosmos fungible assets |
+| [wallet-connector][13] | Wallet connector for Cosmos wallets                         |
 
 
 ## 📚 Data and Contents
