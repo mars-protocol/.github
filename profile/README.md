@@ -58,4 +58,4 @@ Read more at [our docs site][2].
 [11]: https://github.com/mars-protocol/mips
 [12]: https://github.com/mars-protocol/networks
 [13]: https://github.com/mars-protocol/wallet-connector
-[14]: https://github.com/mars-protocol/web-app
+[14]: https://github.com/mars-protocol/interface
