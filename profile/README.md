@@ -22,6 +22,12 @@ Read more at [our docs site][2].
 | [periphery][6]           | Periphery smart contracts to be deployed on Mars Hub   |
 | [liquidation-helpers][7] | Helper contracts facilitating liquidations on Red Bank |
 
+## 💻 Web Interfaces
+
+| Repository      | Description                            |
+| --------------- | -------------------------------------- |
+| [interface][14] | Frontend interface for Mars on Osmosis |
+
 ## 🛠️ Libraries and Tooling
 
 | Repository             | Description                                                 |
@@ -36,15 +42,7 @@ Read more at [our docs site][2].
 | --------------- | ---------------------------------------------- |
 | [whitepaper][9] | Mars Protocol whitepaper                       |
 | [docs][10]      | Mars Protocol documentations                   |
-| [mips][11]      | Mars Improvement Proposals                     |
 | [networks][12]  | Genesis data for Mars Hub mainnet and testnets |
-
-## 💻 Web interfaces
-
-| Repository         | Description                                                 |
-| ------------------ | ----------------------------------------------------------- |
-| [web-interface][14]| Frontend interface for Mars on Osmosis                      |
-
 
 [1]: https://marsprotocol.io/
 [2]: https://docs.marsprotocol.io/
