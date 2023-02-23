@@ -18,7 +18,7 @@ Read more at [our docs site][2].
 | ------------------------ | ------------------------------------------------------ |
 | [hub][3]                 | Mars Hub app-chain                                     |
 | [red-bank][4]            | Smart contracts for Red Bank                           |
-| rover (link TBA)         | Smart contracts for Rover                              |
+| [v2-fields-of-mars][15]  | Smart contracts for Fields of Mars v2                  |
 | [periphery][6]           | Periphery smart contracts to be deployed on Mars Hub   |
 | [liquidation-helpers][7] | Helper contracts facilitating liquidations on Red Bank |
 
@@ -57,3 +57,4 @@ Read more at [our docs site][2].
 [12]: https://github.com/mars-protocol/networks
 [13]: https://github.com/mars-protocol/wallet-connector
 [14]: https://github.com/mars-protocol/interface
+[15]: https://github.com/mars-protocol/v2-fields-of-mars
