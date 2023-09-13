@@ -21,6 +21,7 @@ Read more at [our docs site][2].
 | [v2-fields-of-mars][15]  | Smart contracts for Fields of Mars v2                  |
 | [periphery][6]           | Periphery smart contracts to be deployed on Mars Hub   |
 | [liquidation-helpers][7] | Helper contracts facilitating liquidations on Red Bank |
+| [rover][16]              | Smart contracts for Mars v2 Credit Manager             |
 
 ## 💻 Web Interfaces
 
@@ -58,3 +59,5 @@ Read more at [our docs site][2].
 [13]: https://github.com/mars-protocol/wallet-connector
 [14]: https://github.com/mars-protocol/interface
 [15]: https://github.com/mars-protocol/v2-fields-of-mars
+[16]: https://github.com/mars-protocol/rover
+
