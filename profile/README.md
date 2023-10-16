@@ -17,11 +17,9 @@ Read more at [our docs site][2].
 | Repository               | Description                                            |
 | ------------------------ | ------------------------------------------------------ |
 | [hub][3]                 | Mars Hub app-chain                                     |
-| [red-bank][4]            | Smart contracts for Red Bank                           |
-| [v2-fields-of-mars][15]  | Smart contracts for Fields of Mars v2                  |
+| [contracts][4]           | Smart contracts for Mars Outposts                      |
 | [periphery][6]           | Periphery smart contracts to be deployed on Mars Hub   |
 | [liquidation-helpers][7] | Helper contracts facilitating liquidations on Red Bank |
-| [rover][16]              | Smart contracts for Mars v2 Credit Manager             |
 
 ## 💻 Web Interfaces
 
@@ -48,7 +46,7 @@ Read more at [our docs site][2].
 [1]: https://marsprotocol.io/
 [2]: https://docs.marsprotocol.io/
 [3]: https://github.com/mars-protocol/hub
-[4]: https://github.com/mars-protocol/red-bank
+[4]: https://github.com/mars-protocol/contracts
 [6]: https://github.com/mars-protocol/periphery
 [7]: https://github.com/mars-protocol/liquidation-helpers
 [8]: https://github.com/mars-protocol/cw-asset
@@ -58,6 +56,4 @@ Read more at [our docs site][2].
 [12]: https://github.com/mars-protocol/networks
 [13]: https://github.com/mars-protocol/wallet-connector
 [14]: https://github.com/mars-protocol/interface
-[15]: https://github.com/mars-protocol/v2-fields-of-mars
-[16]: https://github.com/mars-protocol/rover
 
