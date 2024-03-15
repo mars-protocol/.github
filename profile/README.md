@@ -25,7 +25,7 @@ Read more at [our docs site][2].
 
 | Repository      | Description                            |
 | --------------- | -------------------------------------- |
-| [interface][14] | Frontend interface for Mars on Osmosis |
+| [mars-v2-frontend][14] | Frontend interface for the multichain Mars Protocol Outpost |
 
 ## 🛠️ Libraries and Tooling
 
@@ -55,5 +55,5 @@ Read more at [our docs site][2].
 [11]: https://github.com/mars-protocol/mips
 [12]: https://github.com/mars-protocol/networks
 [13]: https://github.com/mars-protocol/wallet-connector
-[14]: https://github.com/mars-protocol/interface
+[14]: https://github.com/mars-protocol/mars-v2-frontend
 
