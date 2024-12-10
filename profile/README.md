@@ -17,7 +17,8 @@ Read more at [our docs site][2].
 | Repository               | Description                                            |
 | ------------------------ | ------------------------------------------------------ |
 | [hub][3]                 | Mars Hub app-chain                                     |
-| [contracts][4]           | Smart contracts for Mars Outposts                      |
+| [contracts][4]           | Smart contracts for Mars Outposts [GPL-3.0 license]    |
+| [core-contracts][5]      | Smart contracts for Mars Outposts [FSL-1.1-Apache-2.0] |
 | [periphery][6]           | Periphery smart contracts to be deployed on Mars Hub   |
 | [liquidation-helpers][7] | Helper contracts facilitating liquidations on Red Bank |
 
@@ -46,6 +47,7 @@ Read more at [our docs site][2].
 [2]: https://docs.marsprotocol.io/
 [3]: https://github.com/mars-protocol/hub
 [4]: https://github.com/mars-protocol/contracts
+[5]: https://github.com/mars-protocol/core-contracts
 [6]: https://github.com/mars-protocol/periphery
 [7]: https://github.com/mars-protocol/liquidation-helpers
 [8]: https://github.com/mars-protocol/cw-asset
