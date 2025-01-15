@@ -27,6 +27,9 @@ Read more at [our docs site][2].
 | Repository      | Description                            |
 | --------------- | -------------------------------------- |
 | [mars-v2-frontend][14] | Frontend interface for the multichain Mars Protocol Outpost |
+| [mars-rd-fe][15] | Frontend interface for the Stats Page |
+| [mars-landing-page][16] | Frontend interface for the Protocols Landingpage|
+
 
 ## 🛠️ Libraries and Tooling
 
@@ -57,4 +60,6 @@ Read more at [our docs site][2].
 [12]: https://github.com/mars-protocol/networks
 [13]: https://github.com/mars-protocol/wallet-connector
 [14]: https://github.com/mars-protocol/mars-v2-frontend
+[15]: https://github.com/mars-protocol/mars-rd-fe
+[16]: https://github.com/mars-protocol/mars-landing-page
 
